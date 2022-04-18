@@ -10,4 +10,4 @@
 ## 참고 논문
 :page_with_curl: LI, L. (2007). Sparse sufficient dimension reduction. Biometrika 94 603–613. MR2410011
 <br>:page_with_curl: Chen, X., Zou, C., & Cook, R. D. (2010). Coordinate-independent sparse sufficient dimension reduction and variable selection. 
-The Annals of Statistics, 38(6), 3696–3723. https://doi.org/10.1214/10-AOS826
+The Annals of Statistics, 38(6), 3696–3723.
