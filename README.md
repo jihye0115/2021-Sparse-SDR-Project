@@ -7,6 +7,16 @@
 대부분의 차원축소 방법론이 그렇듯 해석으로의 적용이 어렵다는 점이 아쉬웠다. 이에, 해석력을 높이는 데 사용하고자 하는 연구들을 발견하였고, 
 그 첫 시도라 할 수 있는 Sparse SDR을 이해하고 적용해보고자 이를 주제로 선정하였다.
 <br></br>
+## 구현 모델
+- Sparse SIR
+- Sparse PHD
+- Sparse SAVE
+<br></br>
+## 데이터
+- 시뮬레이션 데이터
+- Swiss bank notes data
+- Winsconsin breast cancer data
+<br></br>
 ## 참고 논문
 :page_with_curl: LI, L. (2007). Sparse sufficient dimension reduction. Biometrika 94 603–613. MR2410011
 <br>:page_with_curl: Chen, X., Zou, C., & Cook, R. D. (2010). Coordinate-independent sparse sufficient dimension reduction and variable selection. 
